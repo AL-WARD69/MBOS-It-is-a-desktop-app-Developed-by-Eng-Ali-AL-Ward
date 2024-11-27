@@ -1,0 +1,1095 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4EE7A13A-5942-45FE-AD00-7ACBCCFBF998}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MBOS_Full_System</RootNamespace>
+    <AssemblyName>MBOS_Full_System</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.AcroPDFLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\mbos_11\Version10\MBOS_Full_System\bin\Debug\AxInterop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="BarcodeLib">
+      <HintPath>BarcodeLib\bin\Debug\BarcodeLib.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommLayer, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonControls, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonObjectModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.Controllers, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CubeDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataSetConversion, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ObjectFactory, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.Prompting, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ReportDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.XmlSerialize, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\shokri_last\project\bin\Debug\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="devcomponents.dotnetbar2">
+      <HintPath>..\..\shokri_last\project\bin\Debug\devcomponents.dotnetbar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.Charts.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.CodeParser.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.Data.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.DataAccess.v19.1.UI, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.Diagram.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.Images.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.Office.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.Pdf.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.Printing.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.Sparkline.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.Spreadsheet.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.TreeMap.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.Utils.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v19.1.UI, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.Xpo.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v19.1.UI, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v19.1.Wizard, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraDiagram.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v19.1.Win, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraSpreadsheet.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeMap.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraWizard.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework">
+      <HintPath>..\..\shokri_last\project\bin\Debug\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\shokri_last\project\bin\Debug\FlashControlV71.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.AcroPDFLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\mbos_11\Version10\MBOS_Full_System\bin\Debug\Interop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Spire.Doc">
+      <HintPath>..\..\shokri_last\project\bin\Debug\Spire.Doc.dll</HintPath>
+    </Reference>
+    <Reference Include="spire.license">
+      <HintPath>..\..\shokri_last\project\bin\Debug\spire.license.dll</HintPath>
+    </Reference>
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\shokri_last\project\bin\Debug\stdole.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.Ribbon35">
+      <HintPath>..\..\shokri_last\project\bin\Debug\System.Windows.Forms.Ribbon35.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddDept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDept.designer.cs">
+      <DependentUpon>AddDept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTaskWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTaskWizard.designer.cs">
+      <DependentUpon>AddTaskWizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddRole.designer.cs">
+      <DependentUpon>AddRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSubTaskWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSubTaskWizard.designer.cs">
+      <DependentUpon>AddSubTaskWizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_general_archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_general_archive.designer.cs">
+      <DependentUpon>add_general_archive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Archive1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Archive1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Archive1DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Archive1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BL\ShowReport.cs" />
+    <Compile Include="EditPassWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditPassWord.designer.cs">
+      <DependentUpon>EditPassWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditUsers.designer.cs">
+      <DependentUpon>EditUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ff.designer.cs">
+      <DependentUpon>ff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formsendsms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formsendsms.Designer.cs">
+      <DependentUpon>Formsendsms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Header.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Header.designer.cs">
+      <DependentUpon>Header.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mailing\Crystal_mailin_sub.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Crystal_mailin_sub.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="mailing\Crystal_malin_all.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Crystal_malin_all.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MBOSDataSet1.cs">
+      <DependentUpon>MBOSDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MBOSDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MBOSDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT_PL\DeptReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORT_PL\DeptReports.designer.cs">
+      <DependentUpon>DeptReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT_PL\reportView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORT_PL\reportView.designer.cs">
+      <DependentUpon>reportView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT_PL\TasksReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORT_PL\TasksReports.designer.cs">
+      <DependentUpon>TasksReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT_PL\XtraReportAll.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORT_PL\XtraReportAll.designer.cs">
+      <DependentUpon>XtraReportAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT_PL\XtraReportDepartment.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORT_PL\XtraReportDepartment.designer.cs">
+      <DependentUpon>XtraReportDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT_PL\XtraReportTasks.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORT_PL\XtraReportTasks.designer.cs">
+      <DependentUpon>XtraReportTasks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectRole.designer.cs">
+      <DependentUpon>SelectRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaveForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaveForms.Designer.cs">
+      <DependentUpon>SaveForms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSubTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSubTask.designer.cs">
+      <DependentUpon>AddSubTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTask.Designer.cs">
+      <DependentUpon>AddTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_mailing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_mailing.Designer.cs">
+      <DependentUpon>add_mailing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="archive_noti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="archive_noti.Designer.cs">
+      <DependentUpon>archive_noti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="archive_special\special.cs" />
+    <Compile Include="arch_puplic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arch_puplic.Designer.cs">
+      <DependentUpon>arch_puplic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignTask.Designer.cs">
+      <DependentUpon>AssignTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="backup.Designer.cs">
+      <DependentUpon>backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\ADD.cs" />
+    <Compile Include="BL\Assign_Task.cs" />
+    <Compile Include="BL\ChartData.cs" />
+    <Compile Include="BL\CLS_LOGIN.cs" />
+    <Compile Include="BL\Del.cs" />
+    <Compile Include="Departments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departments.designer.cs">
+      <DependentUpon>Departments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\NotificationData.cs" />
+    <Compile Include="BL\priv.cs" />
+    <Compile Include="BL\Show.cs" />
+    <Compile Include="BL\Show_Class.cs" />
+    <Compile Include="Charts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Charts.designer.cs">
+      <DependentUpon>Charts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlSecurityDataSet.cs">
+      <DependentUpon>ControlSecurityDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ControlSecurityDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ControlSecurityDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Create_specialarchive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Create_specialarchive.designer.cs">
+      <DependentUpon>Create_specialarchive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\DataAccessLayer.cs" />
+    <Compile Include="display.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="display.Designer.cs">
+      <DependentUpon>display.cs</DependentUpon>
+    </Compile>
+    <Compile Include="display_all.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="display_all.Designer.cs">
+      <DependentUpon>display_all.cs</DependentUpon>
+    </Compile>
+    <Compile Include="docspecial_alldisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="docspecial_alldisplay.Designer.cs">
+      <DependentUpon>docspecial_alldisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="docspecial_display.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="docspecial_display.Designer.cs">
+      <DependentUpon>docspecial_display.cs</DependentUpon>
+    </Compile>
+    <Compile Include="document\CLS_decuments.cs" />
+    <Compile Include="doc_setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doc_setting.Designer.cs">
+      <DependentUpon>doc_setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doc_setting_rep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doc_setting_rep.Designer.cs">
+      <DependentUpon>doc_setting_rep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doc_specialarch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doc_specialarch.Designer.cs">
+      <DependentUpon>doc_specialarch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="email.Designer.cs">
+      <DependentUpon>email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fol.designer.cs">
+      <DependentUpon>fol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Roles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Roles.designer.cs">
+      <DependentUpon>Roles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMSCOMMS.cs" />
+    <Compile Include="TasksDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TasksDetails.designer.cs">
+      <DependentUpon>TasksDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users.designer.cs">
+      <DependentUpon>Users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="general_archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="general_archive.designer.cs">
+      <DependentUpon>general_archive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="general_archive\allclass.cs" />
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mailing\add.cs" />
+    <Compile Include="mailing\connect.cs" />
+    <Compile Include="mailing\new_m\add_m.cs" />
+    <Compile Include="mailing\new_m\new.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mailing\new_m\new.Designer.cs">
+      <DependentUpon>new.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ma_send.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ma_send.Designer.cs">
+      <DependentUpon>ma_send.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MBOSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MBOSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="permissionscls.cs" />
+    <Compile Include="PL\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\login.designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Privillages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Privillages.designer.cs">
+      <DependentUpon>Privillages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="re_send.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="re_send.Designer.cs">
+      <DependentUpon>re_send.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RPTT\DataSet11.Designer.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="search.Designer.cs">
+      <DependentUpon>search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="send.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="send.Designer.cs">
+      <DependentUpon>send.cs</DependentUpon>
+    </Compile>
+    <Compile Include="settings\all_class.cs" />
+    <Compile Include="settings\DataAccessLayer.cs" />
+    <Compile Include="SetUpAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetUpAdmin.Designer.cs">
+      <DependentUpon>SetUpAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showImageattach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showImageattach.designer.cs">
+      <DependentUpon>showImageattach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showpdfattach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showpdfattach.designer.cs">
+      <DependentUpon>showpdfattach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TasksMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TasksMain.Designer.cs">
+      <DependentUpon>TasksMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditDept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditDept.Designer.cs">
+      <DependentUpon>EditDept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uplodeFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uplodeFile.designer.cs">
+      <DependentUpon>uplodeFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaitForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaitForm1.Designer.cs">
+      <DependentUpon>WaitForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaitForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaitForm2.Designer.cs">
+      <DependentUpon>WaitForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraReportTaskDetails.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XtraReportTaskDetails.designer.cs">
+      <DependentUpon>XtraReportTaskDetails.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddDept.resx">
+      <DependentUpon>AddDept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRole.resx">
+      <DependentUpon>AddRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTaskWizard.resx">
+      <DependentUpon>AddTaskWizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSubTaskWizard.resx">
+      <DependentUpon>AddSubTaskWizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_general_archive.resx">
+      <DependentUpon>add_general_archive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditPassWord.resx">
+      <DependentUpon>EditPassWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUsers.resx">
+      <DependentUpon>EditUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ff.resx">
+      <DependentUpon>ff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formsendsms.resx">
+      <DependentUpon>Formsendsms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Header.resx">
+      <DependentUpon>Header.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mailing\Crystal_mailin_sub.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Crystal_mailin_sub.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mailing\Crystal_malin_all.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Crystal_malin_all.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT_PL\DeptReports.resx">
+      <DependentUpon>DeptReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT_PL\reportView.resx">
+      <DependentUpon>reportView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT_PL\TasksReports.resx">
+      <DependentUpon>TasksReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT_PL\XtraReportAll.resx">
+      <DependentUpon>XtraReportAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT_PL\XtraReportDepartment.resx">
+      <DependentUpon>XtraReportDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT_PL\XtraReportTasks.resx">
+      <DependentUpon>XtraReportTasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectRole.resx">
+      <DependentUpon>SelectRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaveForms.resx">
+      <DependentUpon>SaveForms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSubTask.resx">
+      <DependentUpon>AddSubTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTask.resx">
+      <DependentUpon>AddTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_mailing.resx">
+      <DependentUpon>add_mailing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="archive_noti.resx">
+      <DependentUpon>archive_noti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arch_puplic.resx">
+      <DependentUpon>arch_puplic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignTask.resx">
+      <DependentUpon>AssignTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="backup.resx">
+      <DependentUpon>backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departments.resx">
+      <DependentUpon>Departments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Charts.resx">
+      <DependentUpon>Charts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Create_specialarchive.resx">
+      <DependentUpon>Create_specialarchive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="display.resx">
+      <DependentUpon>display.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="display_all.resx">
+      <DependentUpon>display_all.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="docspecial_alldisplay.resx">
+      <DependentUpon>docspecial_alldisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="docspecial_display.resx">
+      <DependentUpon>docspecial_display.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doc_setting.resx">
+      <DependentUpon>doc_setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doc_setting_rep.resx">
+      <DependentUpon>doc_setting_rep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doc_specialarch.resx">
+      <DependentUpon>doc_specialarch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="email.resx">
+      <DependentUpon>email.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fol.resx">
+      <DependentUpon>fol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Roles.resx">
+      <DependentUpon>Roles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TasksDetails.resx">
+      <DependentUpon>TasksDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users.resx">
+      <DependentUpon>Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="general_archive.resx">
+      <DependentUpon>general_archive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mailing\new_m\new.resx">
+      <DependentUpon>new.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ma_send.resx">
+      <DependentUpon>ma_send.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Privillages.resx">
+      <DependentUpon>Privillages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="re_send.resx">
+      <DependentUpon>re_send.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="search.resx">
+      <DependentUpon>search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="send.resx">
+      <DependentUpon>send.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetUpAdmin.resx">
+      <DependentUpon>SetUpAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showImageattach.resx">
+      <DependentUpon>showImageattach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showpdfattach.resx">
+      <DependentUpon>showpdfattach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TasksMain.resx">
+      <DependentUpon>TasksMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditDept.resx">
+      <DependentUpon>EditDept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uplodeFile.resx">
+      <DependentUpon>uplodeFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaitForm1.resx">
+      <DependentUpon>WaitForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaitForm2.resx">
+      <DependentUpon>WaitForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraReportTaskDetails.resx">
+      <DependentUpon>XtraReportTaskDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Archive1DataSet.xsc">
+      <DependentUpon>Archive1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Archive1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Archive1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Archive1DataSet.xss">
+      <DependentUpon>Archive1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Archive1DataSet1.xsc">
+      <DependentUpon>Archive1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Archive1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Archive1DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Archive1DataSet1.xss">
+      <DependentUpon>Archive1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ControlSecurityDataSet.xsc">
+      <DependentUpon>ControlSecurityDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ControlSecurityDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ControlSecurityDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ControlSecurityDataSet.xss">
+      <DependentUpon>ControlSecurityDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MBOSDataSet.xsc">
+      <DependentUpon>MBOSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MBOSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MBOSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MBOSDataSet.xss">
+      <DependentUpon>MBOSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MBOSDataSet1.xsc">
+      <DependentUpon>MBOSDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="MBOSDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MBOSDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MBOSDataSet1.xss">
+      <DependentUpon>MBOSDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="obj\Debug\CoreCompileInputs.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="PL\app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="RPTT\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="RPTT\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet11.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="RPTT\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\DevExpress.Data.v18.1.dll" />
+    <Content Include="bin\Debug\DevExpress.Data.v18.1.xml" />
+    <Content Include="bin\Debug\DevExpress.Pdf.v18.1.Core.dll" />
+    <Content Include="bin\Debug\DevExpress.Pdf.v18.1.Core.xml" />
+    <Content Include="bin\Debug\DevExpress.Printing.v18.1.Core.dll" />
+    <Content Include="bin\Debug\DevExpress.Printing.v18.1.Core.xml" />
+    <Content Include="bin\Debug\DevExpress.Sparkline.v18.1.Core.dll" />
+    <Content Include="bin\Debug\DevExpress.Sparkline.v18.1.Core.xml" />
+    <Content Include="bin\Debug\DevExpress.Utils.v18.1.dll" />
+    <Content Include="bin\Debug\DevExpress.Utils.v18.1.xml" />
+    <Content Include="bin\Debug\DevExpress.XtraBars.v18.1.dll" />
+    <Content Include="bin\Debug\DevExpress.XtraBars.v18.1.xml" />
+    <Content Include="bin\Debug\DevExpress.XtraEditors.v18.1.dll" />
+    <Content Include="bin\Debug\DevExpress.XtraEditors.v18.1.xml" />
+    <Content Include="bin\Debug\de\DevExpress.Data.v18.1.resources.dll" />
+    <Content Include="bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll" />
+    <Content Include="bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll" />
+    <Content Include="bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll" />
+    <Content Include="bin\Debug\de\DevExpress.Utils.v18.1.resources.dll" />
+    <Content Include="bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll" />
+    <Content Include="bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll" />
+    <Content Include="bin\Debug\es\DevExpress.Data.v18.1.resources.dll" />
+    <Content Include="bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll" />
+    <Content Include="bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll" />
+    <Content Include="bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll" />
+    <Content Include="bin\Debug\es\DevExpress.Utils.v18.1.resources.dll" />
+    <Content Include="bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll" />
+    <Content Include="bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll" />
+    <None Include="bin\Debug\index.jpg" />
+    <Content Include="bin\Debug\ja\DevExpress.Data.v18.1.resources.dll" />
+    <Content Include="bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll" />
+    <Content Include="bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll" />
+    <Content Include="bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll" />
+    <Content Include="bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll" />
+    <Content Include="bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll" />
+    <Content Include="bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll" />
+    <Content Include="bin\Debug\ru\DevExpress.Data.v18.1.resources.dll" />
+    <Content Include="bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll" />
+    <Content Include="bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll" />
+    <Content Include="bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll" />
+    <Content Include="bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll" />
+    <Content Include="bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll" />
+    <Content Include="bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll" />
+    <Content Include="file20189920430.bmp" />
+    <None Include="Resources\icons8_Info_3.ico" />
+    <None Include="Resources\icons8_Import_2.ico" />
+    <None Include="Resources\icons8_Comments_2.ico" />
+    <None Include="Resources\icons8_Expensive_Price__1.ico" />
+    <None Include="Resources\icons8_Hand_With_Pen_1.ico" />
+    <None Include="Resources\icons8_Communication.ico" />
+    <Content Include="REPORT_PL\index.jpg" />
+    <Content Include="Resources\icons8_Info_2.ico" />
+    <Content Include="Resources\icons8_Info_5.ico" />
+    <Content Include="Resources\icons8_Lock.ico" />
+    <Content Include="Resources\icons8_Lock_5.ico" />
+    <Content Include="Resources\icons8_Logout_Rounded_Left.ico" />
+    <Content Include="Resources\icons8_Notification.ico" />
+    <Content Include="Resources\important.ico" />
+    <Content Include="Resources\new_notification.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="attachments\" />
+    <Folder Include="bin\Debug\attach\" />
+    <Folder Include="docimg\" />
+    <Folder Include="generalarchive\mohammed\" />
+    <Folder Include="obj\Debug\TempPE\" />
+    <Folder Include="special_Archive\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
