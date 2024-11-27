@@ -1,0 +1,68 @@
+F:\ادارة المهام\barcode_src\BarcodeLib\bin\Debug\Release Notes.txt
+F:\ادارة المهام\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.dll
+F:\ادارة المهام\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.pdb
+F:\ادارة المهام\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+F:\ادارة المهام\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.dll
+F:\ادارة المهام\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.pdb
+C:\Users\shuk\Desktop\barcode_src\BarcodeLib\bin\Debug\Release Notes.txt
+C:\Users\shuk\Desktop\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.dll
+C:\Users\shuk\Desktop\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.pdb
+C:\Users\shuk\Desktop\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.dll
+C:\Users\shuk\Desktop\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.pdb
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\BOMS\BarcodeLib\bin\Debug\Release Notes.txt
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\BOMS\BarcodeLib\bin\Debug\BarcodeLib.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\BOMS\BarcodeLib\bin\Debug\BarcodeLib.pdb
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\BOMS\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\BOMS\BarcodeLib\obj\Debug\BarcodeLib.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\BOMS\BarcodeLib\obj\Debug\BarcodeLib.pdb
+C:\Users\shuk\Desktop\last\project\BarcodeLib\bin\Debug\Release Notes.txt
+C:\Users\shuk\Desktop\last\project\BarcodeLib\bin\Debug\BarcodeLib.dll
+C:\Users\shuk\Desktop\last\project\BarcodeLib\bin\Debug\BarcodeLib.pdb
+C:\Users\shuk\Desktop\last\project\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+C:\Users\shuk\Desktop\last\project\BarcodeLib\obj\Debug\BarcodeLib.dll
+C:\Users\shuk\Desktop\last\project\BarcodeLib\obj\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\Release Notes.txt
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\Release Notes.txt
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.pdb
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\Release Notes.txt
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\Release Notes.txt
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\BarcodeLib\bin\Debug\Release Notes.txt
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\BarcodeLib\bin\Debug\Release Notes.txt
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.pdb
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\Release Notes.txt
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.pdb
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.pdb
+G:\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\Release Notes.txt
+G:\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.dll
+G:\MBOS_Full_System\MBOS_Full_System\BarcodeLib\bin\Debug\BarcodeLib.pdb
+G:\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.dll
+G:\MBOS_Full_System\MBOS_Full_System\BarcodeLib\obj\Debug\BarcodeLib.pdb
