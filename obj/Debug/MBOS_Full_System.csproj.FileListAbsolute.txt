@@ -1,0 +1,1569 @@
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormUsers.resources
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormRole.resources
+c:\users\adel_almatari\documents\visual studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormPermissions.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.special_Archive.display.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_public_main.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_special_main.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_doc.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.itertaiveTask.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.loactions_folder.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.location.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_document.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_mail_sys.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_sys.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.reports_all.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.rpt.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_and_view.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_view_emp.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.select_sys.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.setting_sys.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.signature.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.update_sig.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\devcomponents.dotnetbar2.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\EntityFramework.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\FlashControlV71.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\Spire.Doc.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\spire.license.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\EntityFramework.xml
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.addDepartment.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Assign_Task.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.chart.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.employees.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Tasks.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksForm.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.addDepartment.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_public_main.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_special_main.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Assign_Task.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.chart.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_doc.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.employees.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormPermissions.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormRole.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormUsers.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.itertaiveTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.loactions_folder.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.location.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_document.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_mail_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.reports_all.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.rpt.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_and_view.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_view_emp.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.select_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.setting_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.signature.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.special_Archive.display.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.update_sig.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.DeptReport.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reports.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reportView.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.TasksReport.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportDepartment.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportTasks.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Task_Details.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksMain.resources
+E:\مشروع المؤسسة العامة للاتصالات\Version6\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraReports.v18.1.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraReports.v18.1.xml
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.addDepartment.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_public_main.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_special_main.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Assign_Task.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.chart.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_doc.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.employees.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormPermissions.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormRole.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormUsers.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.itertaiveTask.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.loactions_folder.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.location.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_document.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_mail_sys.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_sys.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.reports_all.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.DeptReport.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reports.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reportView.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.TasksReport.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportDepartment.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportTasks.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.rpt.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_and_view.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_view_emp.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.select_sys.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.setting_sys.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.signature.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.special_Archive.display.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksMain.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Task_Details.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.update_sig.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+F:\communications fiundation\Version6before\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.addDepartment.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_public_main.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_special_main.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Assign_Task.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.chart.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_doc.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.employees.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormPermissions.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormRole.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormUsers.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.itertaiveTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.loactions_folder.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.location.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_document.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_mail_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.reports_all.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.DeptReport.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reports.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reportView.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.TasksReport.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportDepartment.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportTasks.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.rpt.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_and_view.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_view_emp.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.select_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.setting_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.signature.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.special_Archive.display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksMain.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Task_Details.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.update_sig.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WizardForm1.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\Interop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.ResolveComReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.showImageattach.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.showpdfattach.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\bin\Debug\Interop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version7\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\Interop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.ResolveComReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.addDepartment.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_public_main.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_special_main.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Assign_Task.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.chart.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_doc.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.employees.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormPermissions.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormRole.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormUsers.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.itertaiveTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.loactions_folder.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.location.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_document.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_mail_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PrivillagesForm.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.reports_all.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reportView.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportDepartment.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportTasks.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.rpt.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_and_view.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_view_emp.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.select_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.setting_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.showImageattach.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.showpdfattach.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.signature.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.special_Archive.display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksMain.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksDetails.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.update_sig.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\bin\Debug\Interop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.DepartmentForm.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ChartForm.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm2.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.SaveForms.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.SetUpAdmin.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportAll.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.DeptReports.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version8\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.TasksReports.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\Interop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.ResolveComReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\bin\Debug\Interop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.addDepartment.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.DeptReports.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reportView.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.TasksReports.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportAll.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportDepartment.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportTasks.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.SaveForms.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_public_main.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_special_main.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.Assign_Task.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.DepartmentForm.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.chart.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.ChartForm.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_doc.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.employees.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormPermissions.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormRole.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormUsers.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.itertaiveTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.loactions_folder.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.location.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_document.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_mail_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.PrivillagesForm.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.reports_all.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.rpt.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_and_view.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_view_emp.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.select_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.setting_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.SetUpAdmin.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.showImageattach.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.showpdfattach.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.signature.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.special_Archive.display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksMain.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksDetails.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.update_sig.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm2.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version9\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTaskWizard.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\Interop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.ResolveComReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\bin\Debug\Interop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTaskWizard.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.DeptReports.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reportView.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.TasksReports.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportAll.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportDepartment.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportTasks.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.SaveForms.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_public_main.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_special_main.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_doc.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.loactions_folder.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.location.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_document.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_mail_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.reports_all.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_and_view.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_view_emp.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.select_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.setting_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.SetUpAdmin.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.showImageattach.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.showpdfattach.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.signature.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.special_Archive.display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksMain.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksDetails.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.update_sig.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm2.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddDept.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.AssignTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.Charts.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.Roles.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.Users.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.Privillages.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditDept.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddRole.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditUsers.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditPassWord.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.SelectRole.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version10\MBOS_Full_System\obj\Debug\MBOS_Full_System.main.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\Interop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.ResolveComReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\bin\Debug\Interop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddDept.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTaskWizard.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddRole.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditPassWord.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditUsers.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.main.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.SelectRole.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.DeptReports.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reportView.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.TasksReports.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportAll.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportDepartment.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportTasks.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.SaveForms.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_public_main.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_special_main.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AssignTask.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Charts.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_doc.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Roles.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksDetails.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Users.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.loactions_folder.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.location.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_document.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_mail_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Privillages.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.reports_all.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_and_view.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_view_emp.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.select_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.setting_sys.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.SetUpAdmin.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.showImageattach.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.showpdfattach.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.signature.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.special_Archive.display.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksMain.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditDept.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.update_sig.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm2.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTaskWizard.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.XtraReportTaskDetails.resources
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+E:\مشروع المؤسسة العامة للاتصالات\BOMS\Version11\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+J:\Version11\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+J:\Version11\MBOS_Full_System\obj\Debug\Interop.AcroPDFLib.dll
+J:\Version11\MBOS_Full_System\obj\Debug\AxInterop.AcroPDFLib.dll
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.ResolveComReference.cache
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
+J:\Version11\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+J:\Version11\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+J:\Version11\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+J:\Version11\MBOS_Full_System\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+J:\Version11\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+J:\Version11\MBOS_Full_System\bin\Debug\Interop.AcroPDFLib.dll
+J:\Version11\MBOS_Full_System\bin\Debug\AxInterop.AcroPDFLib.dll
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddDept.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddRole.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTaskWizard.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTaskWizard.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditPassWord.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditUsers.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.main.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.DeptReports.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reportView.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.TasksReports.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportAll.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportDepartment.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportTasks.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.SelectRole.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.SaveForms.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_public_main.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_special_main.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AssignTask.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Charts.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_doc.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Roles.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksDetails.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Users.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.loactions_folder.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.location.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_document.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_mail_sys.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_sys.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Privillages.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.reports_all.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_and_view.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_view_emp.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.select_sys.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.setting_sys.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.SetUpAdmin.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.showImageattach.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.showpdfattach.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.signature.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.special_Archive.display.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksMain.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditDept.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.update_sig.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm2.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.XtraReportTaskDetails.resources
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+J:\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v18.1.Win.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\DevExpress.XtraReports.v18.1.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\DevExpress.XtraWizard.v18.1.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\FlashControlV71.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v18.1.Win.xml
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\DevExpress.XtraReports.v18.1.xml
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\DevExpress.XtraWizard.v18.1.xml
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\de\DevExpress.XtraWizard.v18.1.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\es\DevExpress.XtraWizard.v18.1.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraWizard.v18.1.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraWizard.v18.1.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddDept.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddRole.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTaskWizard.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTaskWizard.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditPassWord.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditUsers.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.main.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.DeptReports.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reportView.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.TasksReports.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportAll.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportDepartment.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportTasks.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.SelectRole.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.SaveForms.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_public_main.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_special_main.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.AssignTask.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Charts.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_doc.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Roles.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksDetails.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Users.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.loactions_folder.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.location.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_document.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_mail_sys.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.main_sys.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Privillages.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.reports_all.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_and_view.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.search_view_emp.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.select_sys.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.setting_sys.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.SetUpAdmin.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.showImageattach.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.showpdfattach.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.signature.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.special_Archive.display.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksMain.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditDept.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.update_sig.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm2.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.XtraReportTaskDetails.resources
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+C:\Users\Adel_AlMatari\Documents\Visual Studio 2017\Projects\mbos_12\Version11\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v18.1.Win.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraReports.v18.1.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraWizard.v18.1.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\FlashControlV71.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v18.1.Win.xml
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraReports.v18.1.xml
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraWizard.v18.1.xml
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraWizard.v18.1.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraWizard.v18.1.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraWizard.v18.1.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraWizard.v18.1.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddDept.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddRole.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTaskWizard.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTaskWizard.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditPassWord.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditUsers.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.DeptReports.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reportView.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.TasksReports.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportAll.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportDepartment.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportTasks.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.SelectRole.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.SaveForms.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AssignTask.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Charts.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Roles.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksDetails.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Users.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Privillages.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.SetUpAdmin.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.showImageattach.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.showpdfattach.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksMain.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditDept.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm2.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.XtraReportTaskDetails.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_general_archive.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Header.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Formsendsms.resources
+C:\Users\shuk\Documents\Visual Studio 2015\Projects\MBOS_Full_System\MBOS_Full_System\bin\Debug\ShockwaveFlashObjects.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddDept.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddRole.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTaskWizard.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTaskWizard.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_general_archive.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditPassWord.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditUsers.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Formsendsms.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Header.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.DeptReports.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reportView.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.TasksReports.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportAll.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportDepartment.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportTasks.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.SelectRole.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.SaveForms.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AssignTask.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Charts.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Roles.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksDetails.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Users.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Privillages.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.SetUpAdmin.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.showImageattach.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.showpdfattach.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksMain.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditDept.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm2.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.XtraReportTaskDetails.resources
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.Shared.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.CodeParser.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Data.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.DataAccess.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Images.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Office.v19.1.Core.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Spreadsheet.v19.1.Core.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.TreeMap.v19.1.Core.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Utils.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Xpo.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraBars.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v19.1.Win.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraReports.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraSpreadsheet.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraTreeMap.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraWizard.v19.1.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\FlashControlV71.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ShockwaveFlashObjects.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Data.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.DataAccess.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Office.v19.1.Core.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Spreadsheet.v19.1.Core.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.TreeMap.v19.1.Core.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Utils.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Xpo.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraBars.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v19.1.Win.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraReports.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraSpreadsheet.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraTreeMap.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraWizard.v19.1.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraSpreadsheet.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraWizard.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraWizard.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraWizard.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraWizard.v19.1.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
+G:\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe.config
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.exe
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\MBOS_Full_System.pdb
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.Shared.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.CodeParser.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Data.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.DataAccess.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Images.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Office.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.TreeMap.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Xpo.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraBars.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraCharts.v21.2.UI.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v21.2.Win.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraReports.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraSpreadsheet.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraTreeMap.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraTreeMap.v21.2.UI.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraWizard.v21.2.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\AxShockwaveFlashObjects.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ShockwaveFlashObjects.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\BarcodeLib.pdb
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Data.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.DataAccess.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Office.v21.2.Core.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Spreadsheet.v21.2.Core.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.TreeMap.v21.2.Core.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Xpo.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraBars.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraCharts.v21.2.UI.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGauges.v21.2.Win.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraReports.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraSpreadsheet.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraTreeMap.v21.2.UI.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraTreeMap.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.XtraWizard.v21.2.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraSpreadsheet.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.XtraWizard.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.XtraWizard.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.XtraWizard.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.XtraWizard.v21.2.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csprojResolveAssemblyReference.cache
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddDept.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddRole.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTaskWizard.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTaskWizard.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_general_archive.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditPassWord.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditUsers.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ff.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Form1.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Formsendsms.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Header.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.main.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.DeptReports.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.reportView.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.TasksReports.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportAll.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportDepartment.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.REPORT_PL.XtraReportTasks.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.SelectRole.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.SaveForms.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddSubTask.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AddTask.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.add_mailing.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.archive_noti.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.arch_puplic.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.AssignTask.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.backup.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Departments.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Charts.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Create_specialarchive.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.display_all.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_alldisplay.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.docspecial_display.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_setting_rep.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.doc_specialarch.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.email.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.fol.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.FormMain.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Roles.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksDetails.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Users.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.general_archives.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Home.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.new_m.new.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.ma_send.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.login.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Privillages.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.Properties.Resources.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.re_send.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.search.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.send.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.SetUpAdmin.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.showImageattach.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.showpdfattach.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.TasksMain.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.EditDept.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.PL.uplodeFile.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm1.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.WaitForm2.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.XtraReportTaskDetails.resources
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.csproj.GenerateResource.Cache
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe.licenses
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.exe
+E:\C#\MBOS_Full_System\MBOS_Full_System\obj\Debug\MBOS_Full_System.pdb
